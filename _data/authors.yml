@@ -57,7 +57,7 @@ isme2n:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:doohyun3071@gmail.com
-    # rss:             https://kdh3071.github.io/feed.xml
+    rss:             https://kdh3071.github.io/feed.xml
 
 # Another author
 mdo:
