@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Book
-slug: book
-category: review
+title: Pytorch
+slug: pytorch
+category: study
 menu: false
 order: 2
 ---

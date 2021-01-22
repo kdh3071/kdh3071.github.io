@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Book
-slug: book
-category: review
+title: Music
+slug: music
+category: etc
 menu: false
 order: 2
 ---

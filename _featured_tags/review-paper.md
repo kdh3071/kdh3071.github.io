@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Book
-slug: book
+title: Paper
+slug: paper
 category: review
 menu: false
 order: 2
