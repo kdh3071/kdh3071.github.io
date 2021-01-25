@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Markdown
-slug: markdown
+title: Etc
+slug: etc
 category: study
 menu: false
 order: 7
